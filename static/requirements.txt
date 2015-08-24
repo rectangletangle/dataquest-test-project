@@ -1,0 +1,2 @@
+ipykernel == 4.0.3
+rodeo == 0.4.3
