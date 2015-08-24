@@ -11,6 +11,8 @@ RUN pip install -U rodeo
 
 COPY ./startrodeo.py /home/
 
+RUN mkdir /home/data/
+
 EXPOSE 5000
 
 # Run rodeo

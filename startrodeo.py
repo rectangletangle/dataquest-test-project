@@ -3,7 +3,7 @@
 from rodeo import rodeo
 
 if __name__ == '__main__':
-    rodeo.main('/home/',
+    rodeo.main('/home/data/',
                host='0.0.0.0',
                port=5000,
                browser=False)
